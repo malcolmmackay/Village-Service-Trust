@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="case_studies_arrow.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="291.07143"
+     inkscape:cy="805.71429"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="738"
+     inkscape:window-height="713"
+     inkscape:window-x="0"
+     inkscape:window-y="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#0d8940;fill-opacity:1;stroke:none;stroke-width:9.30000019000000044;stroke-linecap:square;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 185.45398,190.57589 C 173.60917,190.57589 163.90625,197.80988 163.90625,206.64073 L 163.90625,262.39051 C 163.90625,271.22136 173.60916,278.45537 185.45398,278.45535 L 442.2844,278.45535 C 454.12921,278.45535 488.21428,243.34837 488.21428,234.51751 L 488.21428,233.90779 C 488.21428,225.07693 454.1292,190.57589 442.2844,190.57589 L 185.45398,190.57589 z M 185.45398,198.44925 L 442.2844,198.44925 C 448.44988,198.44925 453.27161,202.04407 453.27161,206.64073 L 453.27161,262.39051 C 453.27161,266.98717 448.44989,270.55548 442.2844,270.55548 L 185.45398,270.55548 C 179.28848,270.55549 174.50233,266.98718 174.50233,262.39051 L 174.50233,206.64073 C 174.50233,202.04406 179.28849,198.44925 185.45398,198.44925 z"
+       id="rect2383"
+       sodipodi:nodetypes="cccccccccccccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:32.22246169999999665px;font-style:italic;font-weight:bold;writing-mode:lr-tb;fill:#0d8940;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Sans"
+       x="192.84073"
+       y="244.90117"
+       id="text2390"><tspan
+         sodipodi:role="line"
+         id="tspan2392"
+         x="192.84073"
+         y="244.90117">Case Studies</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,5 @@
+<module>
+	<inherits name="com.google.gwt.user.User"/>
+	<inherits name="com.google.gwt.user.theme.standard.StandardResources"/>
+	<entry-point class="com.vst.carousel.client.VSTCarousel"/>
+</module>

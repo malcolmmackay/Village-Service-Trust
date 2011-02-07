@@ -1,0 +1,3 @@
+AddType text/html .xhtml
+AddType text/html xhtml
+AddType application/xhtml+xml none

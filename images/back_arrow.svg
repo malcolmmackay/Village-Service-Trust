@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="back_arrow.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-filename="/Library/WebServer/Documents/vst/images/case_studies_arrow.png"
+   inkscape:export-xdpi="70.766052"
+   inkscape:export-ydpi="70.766052">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="298.49291"
+     inkscape:cy="769.34773"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="718"
+     inkscape:window-x="63"
+     inkscape:window-y="5" />
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       id="perspective10"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <filter
+       inkscape:collect="always"
+       id="filter5026">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.0684324"
+         id="feGaussianBlur5028" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter5138">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.66155321"
+         id="feGaussianBlur5140" />
+    </filter>
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <text
+       id="text2390"
+       y="245.54039"
+       x="192.84073"
+       style="font-size:32.2224617px;font-style:italic;font-weight:bold;writing-mode:lr-tb;fill:#0d8940;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Sans"
+       xml:space="preserve"
+       inkscape:export-filename="/Library/WebServer/Documents/vst/images/case_studies_arrow.png"
+       inkscape:export-xdpi="70.766052"
+       inkscape:export-ydpi="70.766052"><tspan
+         y="245.54039"
+         x="192.84073"
+         id="tspan2392"
+         sodipodi:role="line">BACK</tspan></text>
+    <path
+       sodipodi:nodetypes="cccccccccc"
+       id="path4694"
+       d="M 423.79443,261.32389 C 431.97734,261.08562 454.98484,241.85841 454.80719,235.75768 L 454.79493,235.33647 C 454.61728,229.23573 431.19376,209.63575 423.01087,209.87402 L 423.79443,261.32389 z M 423.00787,209.77092 C 427.26724,209.6469 450.24568,232.44416 450.33815,235.61972 L 450.61084,235.55413 C 450.70331,238.7297 428.05387,261.20173 423.79449,261.32576 L 423.00787,209.77092 z"
+       style="fill:#0d8940;fill-opacity:1;stroke:none;stroke-width:9.30000019;stroke-linecap:square;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter5138)"
+       inkscape:export-filename="/Library/WebServer/Documents/vst/images/case_studies_arrow.png"
+       inkscape:export-xdpi="70.766052"
+       inkscape:export-ydpi="70.766052"
+       transform="matrix(-1,0,0,1,619.78904,1.0101525)" />
+    <path
+       sodipodi:nodetypes="cccccccccc"
+       id="path4696"
+       d="M 424.36644,258.10983 C 432.54935,257.90128 455.55685,241.07155 455.3792,235.73153 L 455.36694,235.36285 C 455.18929,230.02282 431.76577,212.86682 423.58288,213.07538 L 424.36644,258.10983 z M 423.57988,212.98514 C 427.83925,212.87658 447.78723,232.16805 447.8797,234.94764 L 447.89985,235.55337 C 447.99232,238.33297 428.62588,258.00291 424.3665,258.11147 L 423.57988,212.98514 z"
+       style="fill:#0d8940;fill-opacity:1;stroke:none;stroke-width:9.30000019;stroke-linecap:square;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter5026)"
+       inkscape:export-filename="/Library/WebServer/Documents/vst/images/case_studies_arrow.png"
+       inkscape:export-xdpi="70.766052"
+       inkscape:export-ydpi="70.766052"
+       transform="matrix(-1,0,0,1,619.78904,1.0101525)" />
+  </g>
+</svg>

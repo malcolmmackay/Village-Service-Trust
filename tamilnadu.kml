@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name>tamilnadu.kml</name>
+	<Style id="default_copy0+icon=http://maps.google.com/mapfiles/kml/pal3/icon52.png">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal3/icon52.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.1</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="default_copy0+icon=http://maps.google.com/mapfiles/kml/pal3/icon60.png">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal3/icon60.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="default_copy0+nicon=http://maps.google.com/mapfiles/kml/pal3/icon60.png+hicon=http://maps.google.com/mapfiles/kml/pal3/icon52.png">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#default_copy0+icon=http://maps.google.com/mapfiles/kml/pal3/icon60.png</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#default_copy0+icon=http://maps.google.com/mapfiles/kml/pal3/icon52.png</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Tamil Nadu, India</name>
+		<address>Tamil Nadu, India</address>
+		<LookAt>
+			<longitude>78.300687</longitude>
+			<latitude>10.810157</latitude>
+			<altitude>0</altitude>
+			<range>713828.1875</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+		</LookAt>
+		<styleUrl>#default_copy0+nicon=http://maps.google.com/mapfiles/kml/pal3/icon60.png+hicon=http://maps.google.com/mapfiles/kml/pal3/icon52.png</styleUrl>
+		<Point>
+			<coordinates>78.300687,10.810157,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

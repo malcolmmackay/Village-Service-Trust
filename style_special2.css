@@ -1,0 +1,27 @@
+h5 {
+}
+
+#donateContainer {
+float:right;
+padding-left:20px;
+padding-bottom:10px;
+}
+.donateTool {
+background:white;
+}
+
+.legend {
+font-size:14px;
+}
+
+#donateButton {
+padding:0px;
+}
+
+#shelter_pictures {
+width:630px;
+}
+
+#shelter_pictures img {
+
+}
