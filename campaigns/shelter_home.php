@@ -63,64 +63,11 @@ displayHeader("'../index.php'")
 		<li>Job placements and apprenticeships.</li>
 	</ul>
 	<h5>Rice Appeal</h5>
-	<div id="donateContainer">	
-<form name="_xclick" action="https://www.paypal.com/uk/cgi-bin/webscr" method="post">
-											<fieldset class="donateTool">
-							<legend class="legend">
-								Rice Quantity
-							</legend>
-							
-							<input onkeyup="kgToRs()" id="kg" name="kg" style="font-size:16px" size="6" maxlength="6" value="10" autocomplete=off></input><label> kg</label>
-														<input onmouseup="kgDown()" type="button" value="-"/><input onmouseup="kgUp()" type="button" value="+"/>
-
-						</fieldset>
-
-						<input type="hidden" name="cmd" value="_donations"/>
-						<input type="hidden" name="business" value="thevst@gmx.com"/>
-						<input type="hidden" name="lc" value="US"/>
-						<input type="hidden" name="item_name" value="Rice for the Shelter Home"/>
-						<input type="hidden" name="currency_code" />
-						<input type="hidden" name="bn" value="PP-DonationsBF:btn_donate_LG.gif:NonHostedGuest"/>
-						<fieldset class="donateTool">
-							<legend class="legend">Value</legend>
-							<input id="Rs" type="hidden" style="font-size:12px" size="6" maxlength="6" value="" autocomplete=off readonly></input>
-							<label style="display:none;font-size:12px">Rs</label>
-												
-							<select onChange="ajaxFunction()" id="selConvertTo" name="currency_code" value="USD">
-							<option  value="USD">United States Dollar (USD)</option>
-
-
-							<option  value="AUD">Australian Dollar (AUD)</option>
-							<option  value="CAD">Canadian Dollar (CAD)</option>
-							<option  value="CHF">Swiss Franc (CHF)</option>
-							<option  value="CZK">Czech Koruna (CZK)</option>
-							<option  value="DKK">Danish Krone (DKK)</option>
-							<option  value="EUR">Euro (EUR)</option>
-							<option  value="GBP">British Pound (GBP)</option>
-
-							<option  value="HKD">Hong Kong Dollar (HKD)</option>
-							<option  value="HUF">Hungarian Forint (HUF)</option>
-							<option  value="ILS">New Israeli Sheqel (ILS)</option>
-							<option  value="JPY">Japanese Yen (JPY)</option>
-
-							<option  value="MXN">Mexican Peso (MXN)</option>
-							<option  value="NOK">Norwegian Krone (NOK)</option>
-							<option  value="NZD">New Zealand Dollar (NZD)</option>
-							<option  value="PLN">Polish Złoty (PLN)</option>
-							<option  value="SEK">Swedish Krona (SEK)</option>
-							<option  value="SGD">Singapore Dollar (SGD)</option>
-														</select>
-							<p></p>
-							<input onkeyup="reverseConversion();" id="myCurrency" name="amount" style="font-size:16px;" size="6" maxlength="6" value="" autocomplete=off></input><label id="curLabel" style="padding-left:5px;">USD</label>
-						
-						</fieldset>				
-																	<input type="image" src="https://www.paypal.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" id="donateButton" alt="PayPal - The safer, easier way to pay online!" style="margin-Top:7px;margin-Left:11px;"/>
-								</form></div>
-
+	
 	<p>There is an urgent need for the VST to procure 1800 kg of rice for the shelter home, to feed the malnourished kids adequately.</p>
 
 						<p>Between 850 to 900 Kgs of rice is  required on a monthly basis to help secure a livelihood for the 83 children in our care. The global recession has made it more difficult to obtain funding. </p>
-						<p>Any donations are greatly appreciated. You can use the form on the right to donate rice by the kilogram. Alternatively, you can <a href="../donate/child_sponsorship.php">sponsor a child</a>.</p>
+						<p>Any <a href="../donate/index.php">donations</a> are greatly appreciated. You can also <a href="../donate/child_sponsorship.php">sponsor a child</a>.</p>
 
 
 					

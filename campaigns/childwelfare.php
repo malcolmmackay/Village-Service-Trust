@@ -31,7 +31,7 @@ displayHeader("'../index.php'")
 
 				<div id="main" class="campaign">
 					<div id="street_children_header" class="sponsor">
-					<div id="message">You can support this project by <a href="shelter_home.php">donating rice</a> or <a href="../donate/child_sponsorship.php">sponsoring a child</a>!</div>
+					<div id="message">You can support this project with a one-time <a href="../donate/index.php">donation</a> or by <a href="../donate/child_sponsorship.php">sponsoring a child</a>!</div>
 					</div>
 				<div id="container">
 				<div id="cover"></div>

@@ -31,12 +31,14 @@ displayHeader("'../index.php'")
 	?>	
 			<div id="main">	
 <h3>Support Our Work</h3>
-<div id="paypal_info" style="float:right">
-<!-- PayPal Logo --><a href="#" onclick="javascript:window.open('https://www.paypal.com/cgi-bin/webscr?cmd=xpt/Marketing/popup/OLCWhatIsPayPal-outside','olcwhatispaypal','toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=400, height=350');"><img  src="https://www.paypal.com/en_US/i/bnr/horizontal_solution_PPeCheck.gif" border="0" alt="Solution Graphics"></a><!-- PayPal Logo --></div>
+<div style="width:285px;float:left;">
+<p>The Village Service Trust accepts donations through the <a href="http://www.ammado.com/about" class="external">Ammado Foundation</a>.</p> 
 
-<p>The Village Service Trust accepts donations online via PayPal. Please click the button above to donate. You do not need to have a Paypal account to use the secure payment system.</p>
+<p>All donations are processed securely by <a href='http://www.rbsworldpay.com' class="external">RBS WorldPay</a>. Ammado does not store payment details from donors (<a href="http://www.ammado.com/about/giving/policy" class="external">read more</a>). </p>
+</div>
+<div id="ammadoGivingWidget" style="margin-left:305px;width:322px;"></div><script type="text/javascript">var s = document.createElement('script'); s.type='text/javascript'; s.async=true;s.src='https://www.ammado.com/nonprofit/114661/givingwidget/embed.js?renderTo=ammadoGivingWidget';var f = document.getElementsByTagName('script')[0]; f.parentNode.insertBefore(s, f);</script>
 
-	</div></div></div>
+</div></div></div>
 
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");

@@ -88,7 +88,8 @@
 		
 		
 		<div style="position:relative;">
-<fb:like-box href="http://www.facebook.com/pages/Village-Service-Trust/115240279893" width="240" height="200" connections="3" stream="false" header="false" style="float:right;padding-left:15px;padding-bottom:15px;"></fb:like-box>				
+<fb:like-box href="http://www.facebook.com/pages/Village-Service-Trust/115240279893" width="240" height="180" connections="3" stream="false" header="false" style="float:right;padding-left:15px;padding-bottom:15px;"></fb:like-box>
+				
 		<p>The Village Service Trust is a non-governmental organization operating across 2 districts in the Tamil Nadu region of India. </p>
 
 <p>The vision of our organization is to create a just society where everybody enjoys equal rights and resonsibilities. The mission is to implement <a href="campaigns/index.php">social service projects</a> among the marginalized and vulnerable people, to empower them economically and to promote communal harmony.</p>
