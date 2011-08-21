@@ -1,0 +1,293 @@
+html {
+/*background:#F5F5DC; /* Beige */
+}
+
+body {
+font-family:"trebuchet ms",sans-serif;
+text-decoration:none;
+margin:0px;
+padding-top:0px;
+}
+
+@font-face {
+    font-family: 'HelsinkiRegular';
+    src: url('helsinki-webfont.eot');
+    src: url('helsinki-webfont.eot?#iefix') format('embedded-opentype'),
+         url('helsinki-webfont.woff') format('woff'),
+         url('helsinki-webfont.ttf') format('truetype'),
+         url('helsinki-webfont.svg#HelsinkiRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'OpenSansRegular';
+    src: url('OpenSans-Regular-webfont.eot');
+    src: url('OpenSans-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('OpenSans-Regular-webfont.woff') format('woff'),
+         url('OpenSans-Regular-webfont.ttf') format('truetype'),
+         url('OpenSans-Regular-webfont.svg#OpenSansRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'OpenSansSemibold';
+    src: url('OpenSans-Semibold-webfont.eot');
+    src: url('OpenSans-Semibold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('OpenSans-Semibold-webfont.woff') format('woff'),
+         url('OpenSans-Semibold-webfont.ttf') format('truetype'),
+         url('OpenSans-Semibold-webfont.svg#OpenSansSemibold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+p {
+padding-Top:0px;
+font: 18px/26px 'OpenSansRegular' Arial, sans-serif;
+}
+
+h1 {
+font: 40px/48px 'HelsinkiRegular' Arial, sans-serif;
+letter-spacing: 0;
+padding-Top:40px;
+padding-Left:20px;
+color:#0d8940;
+}
+
+h2 {
+font: 20px/28px 'HelsinkiRegular' Arial, sans-serif;
+letter-spacing: 0;
+padding-Top:0px;
+padding-Left:10px;
+position:absolute;
+}
+
+p.nospace {
+margin:5px;
+margin-left:0px;
+}
+
+p.nospace2 {
+margin:0px;
+padding:0px;
+}
+
+img {
+border:0px;
+}
+
+
+
+a.external {
+background: url(images/external.png) no-repeat right;
+padding-right:14px;
+}
+
+#central a.close_layer {
+text-decoration:none;
+float:right;
+}
+
+#central a.popup {
+text-decoration:none;
+}
+
+#central a {
+color:#0d8940;
+}
+
+#central .jdGallery a {
+color:#fff;
+}
+
+#central #nav a {
+color:#000000;
+}
+
+#central #header {
+height:150px;
+}
+
+#central #footer {
+height:100px;
+padding-Top:15px;
+}
+
+#header #logo {
+float:left;
+background:blue;
+width:136px;
+margin-left:0px;
+margin-right:3px;
+margin-top:10px;
+height:106px;
+padding-top:5px;
+padding-right:15px;
+background:transparent url("../images/banner_logo.png") no-repeat;
+cursor:pointer;
+}
+
+#central #related_link h1 {
+font-size:10px;
+text-align:center;
+}
+
+#central #related_link p {
+font-size:10px;
+text-align:center;
+}
+
+#central {
+position:absolute;
+width:900px;
+padding-top:0px;
+margin:auto;
+margin-top:10px;
+padding-bottom:5px;
+margin-bottom:25px;
+}
+
+#central #photos {
+margin-Top:25px;
+height:270px;
+display:block;
+overflow-x:scroll;
+white-space:nowrap;
+} 
+
+#central #photos img a {
+display:inline;
+float:left;
+white-space:nowrap;
+}
+
+#central #main, .infoLayer {
+margin-left:35px;
+margin-right:3px;
+padding-left:20px;
+padding-right:20px;
+padding-bottom:20px;
+background:white;
+min-height:350px;
+width:900px;
+margin-top:0px;
+}
+
+#central #main.campaign {
+min-height:520px;
+}
+
+#central #main #street_children_header {
+background:url(images/street_children_banner.jpg) no-repeat;
+width:641px;
+height:149px;
+position:relative;
+}
+
+#central #main #street_children_header.sponsor {
+background:url(images/street_children_banner_sponsor.jpg) no-repeat;
+height:175px;
+position:relative;
+}
+
+
+#central #main #street_children_header #message {
+position:absolute;
+top:7px;
+left:15px;
+color:white;
+text-decoration:none;
+}
+
+#central #main #street_children_header #message a {
+color:white;
+}
+
+#central #main #street_children_header h1 {
+position:absolute;
+bottom:15px;
+left:15px;
+font-size:12pt;
+font-weight:bold;
+margin-top:105px;
+margin-left:2px;
+}
+
+
+
+#central #campaign_images {
+float:right;
+width:380px;
+margin-left:15px;
+height:240px;
+margin-bottom:15px;
+}
+
+#central #campaign_images_centered {
+width:500px;
+margin:auto;
+height:288px;
+}
+
+
+
+
+
+
+#central #main #home_images #imageSelector {
+height:20px;
+background:green;
+}
+
+#central #main #areainfo {
+width:340px;
+margin-top:0px;
+}
+
+#central #main #map {
+position:absolute;
+padding-top:15px;
+margin-left:360px;
+width:405px;
+height:352px;
+}
+
+.infoLayer {
+display:none;
+border:1px solid DarkGrey;
+position:absolute;
+padding-top:20px;
+width:300px;
+min-height:0px;
+background:white;
+color:black;
+}
+
+#container {
+position:relative;
+}
+
+#container #cover {
+position:absolute;
+width:100%;
+height:100%;
+z-index=100; /*Above everything else*/
+margin:0px;
+padding:0px;
+display:none;
+background:white;
+opacity:0.75;
+}
+
+#undercentral {
+display:none;
+}
+
+#central ul.drawers h5,a {
+cursor:pointer;
+}

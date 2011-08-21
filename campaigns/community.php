@@ -12,18 +12,8 @@
 		<script src="../lightbox2/js/lightbox.js" type="text/javascript"></script>
 </head>
 	<body>
-		<?php
-include("../header.php");
-displayHeader("'../index.php'")
-?>
 
 <div id="central">
-<?php 
-	include("nav.php"); 
-	
-	displayNav($_SERVER['PHP_SELF']);
-	
-	?>
 
 		
 			<div id="main">
